@@ -1,6 +1,6 @@
 # vue-snotify-typescript-example
 
-> A vue-snotify typescript example
+> A [vue-snotify](https://github.com/artemsky/vue-snotify) typescript example
 
 ###### This template based on [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript)
 
